@@ -1,0 +1,4 @@
+name: LearnMySQL
+version: '${project.version}'
+main: me.beppo.learnmysql.LearnMySQL
+api-version: 1.19
